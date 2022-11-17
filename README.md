@@ -11,13 +11,8 @@ Django 2.2.19
 pip install -r requirements.txt
 ```
 - In the directory with file manage.py execute a command:
-'''
+```
 python manage.py runserver
-```
-
-- В папке с файлом manage.py выполните команду:
-```
-python3 manage.py runserver
 ```
 ### Author
 Idrisov Artur
